@@ -5,7 +5,7 @@
 <h2>Esse desafio eu aprendi através da formação <a href = "https://rodolfomori.com.br/devclub" target = "_blank">DevClub</a>
   <br>
   <br>
-<p> O objetivo do desafio é aprender com mais clareza sobre programação em JavaScript e treinar várias funções que são utilizadas no mercado de trabalho. Para isso, foi utilizada as ferramentas a seguir e</p>
+<p> O objetivo do desafio é aprender com mais clareza sobre programação em JavaScript e treinar várias funções que são utilizadas no mercado de trabalho. Para isso, foi utilizada a ferramenta a seguir e</p>
 <br>
 <br>
   
